@@ -13,4 +13,4 @@ window2: [2,3,4,5] and so on.
 
 # References
 pct_change. Pandas. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pct_change.html
-Rolling. Pandas. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html
+<br/>Rolling. Pandas. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html
